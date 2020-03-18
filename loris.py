@@ -43,9 +43,6 @@ print """\033[32;1m                  . .IIIII             .II
 """
         
   
-print "\033[32;1m<=======================================>"         
-print "\033[34;1m||========>LORIS<=========||"
-print "\033[32;1m<=======================================>"
 print "CREATED=wenNEx"
 print "STUDY CYBER NET"
 print
