@@ -27,7 +27,7 @@ os.system("figlet LORIS DDOS | lolcat")
 print """\033[32;1m                  . .IIIII             .II
           IIIIIIIIII. I  II  .    II..IIII-V.1.5-IIIIIIIII
       .  .IIIIII  II             IIIIIIIIIIIIIIIIIIIII  I.
-        .IIIII.III I        IIIByIII-II+MR ★ AWEN+III"
+        .IIIII.III I        IIIByIII-II+MR.AWEN+III"
           .IIIIIIII           II  .IIIII IIIIIIIIIIII. I
             IIIIII             IIII I  III+DDOS+IIII I
            .II               IIIIIIIIIIIII  IIIIIIIII
